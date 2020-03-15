@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_5
+http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 ,Unknown_6
+http://192.200.120.82:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 ,Unknown_19
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 ,Unknown_20
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,Unknown_21
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 ,Unknown_22
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 ,Unknown_23
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 ,Unknown_24
+http://sr13.douphy.com/hdfenghuangzx.m3u8
+#EXTINF:-1 ,Unknown_25
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,Unknown_26
+http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 ,Unknown_27
+http://sr13.douphy.com/hdfenghuangzw.m3u8
+#EXTINF:-1 ,Unknown_28
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,Unknown_29
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1 ,Unknown_31
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,Unknown_33
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,Unknown_38
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 ,Unknown_39
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,Unknown_45
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,Unknown_46
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,Unknown_47
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,Unknown_48
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+#EXTINF:-1 ,Unknown_49
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 ,Unknown_50
+http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 ,Unknown_51
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 ,Unknown_52
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ,Unknown_54
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 ,Unknown_55
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,Unknown_60
+http://61.58.60.230:9319/live/225.m3u8
+#EXTINF:-1 ,Unknown_61
+http://61.58.60.230:9319/live/224.m3u8
+#EXTINF:-1 ,Unknown_62
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
