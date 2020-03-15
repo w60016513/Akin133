@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,纬来体育
+http://pull.scphsd.com/live/fefc5b4090b978cbb911f98ba68b6fe4.flv
+#EXTINF:-1,体育1台
+http://pull.scphsd.com/live/af87f0259f8370cc17c066a09834baca.flv
+#EXTINF:-1,新视觉HD
+http://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1,劲爆体育
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1,五星体育
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1,CCTV5
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
